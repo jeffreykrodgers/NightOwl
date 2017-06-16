@@ -1,0 +1,35 @@
+body {
+    color: #cccccc;
+}
+
+#viewport {
+    background-color: #1F1f1f !important;
+}
+
+.sbib_a, .sbsb_a {
+    background-color: #1e1e1e !important;
+    color: #EEEEEE !important;
+}
+
+.sbsb_d {
+    background-color: #252525 !important;
+}
+
+#gb#gb a.gb_P, #gb#gb span.gb_P {
+    color: #EEEEEE !important;
+}
+
+#fbar {
+    border-top: 1px solid #1F1f1f !important;
+    background-color: #1F1f1f !important;
+}
+
+.sbpqs_a {
+    color: #AFAFAF !important;
+}
+
+.jhp input[type='submit'] {
+    background-color: #252525 !important;
+    border-color: #252525 !important;
+    background-image: none !important;
+}

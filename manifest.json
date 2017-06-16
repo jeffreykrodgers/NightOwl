@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "NightOwl",
+  "description": "This extension overlays google with a good ol' dark theme",
+  "version": "1.0",
+
+  "content_scripts": [{
+    "css": ["google_style.css"],
+//    "js": ["content.js"],
+    "matches": ["https://*.google.com/*"]
+  }]
+}
