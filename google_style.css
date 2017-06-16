@@ -6,22 +6,26 @@ body {
     background-color: #1F1f1f !important;
 }
 
-.sbib_a, .sbsb_a {
+.sbib_a, .sbsb_a, .sbibod, a._sWr, ._Fmb {
     background-color: #1e1e1e !important;
     color: #EEEEEE !important;
 }
 
-.sbsb_d {
-    background-color: #252525 !important;
+.sbsb_d, #hdtbSum, .sfbgg, #appbar, .sfbgx {
+    background: #252525 !important;
 }
 
-#gb#gb a.gb_P, #gb#gb span.gb_P {
+#gb#gb a.gb_P, #gb#gb span.gb_P, .gsfi, ._qgo, #brs .med, #brs .med, #foot #navcnt .cur {
     color: #EEEEEE !important;
 }
 
-#fbar {
+#fbar, ._qgo {
     border-top: 1px solid #1F1f1f !important;
     background-color: #1F1f1f !important;
+}
+
+#hdtb, .sfbgx {
+    border-bottom: 1px solid #1F1F1F !important;
 }
 
 .sbpqs_a {
@@ -32,4 +36,9 @@ body {
     background-color: #252525 !important;
     border-color: #252525 !important;
     background-image: none !important;
+}
+
+a:link, .w, #prs a:visited, #prs a:active, .q:active, .q:visited, .kl:active, .tbotu,
+a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b {
+    color: rgb(66 , 133, 244) !important;
 }
