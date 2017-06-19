@@ -1,5 +1,6 @@
 body {
     color: #cccccc;
+    background: #1f1f1f !important;
 }
 
 #viewport {
@@ -11,11 +12,11 @@ body {
     color: #EEEEEE !important;
 }
 
-.sbsb_d, #hdtbSum, .sfbgg, #appbar, .sfbgx {
+.sbsb_d, #hdtbSum, .sfbgg, #appbar, .sfbgx, g-inner-card {
     background: #252525 !important;
 }
 
-#gb#gb a.gb_P, #gb#gb span.gb_P, .gsfi, ._qgo, #brs .med, #brs .med, #foot #navcnt .cur {
+#gb#gb a.gb_P, #gb#gb span.gb_P, .gsfi, ._qgo, #brs .med, #brs .med, #foot #navcnt .cur, .kno-ecr-pt, g-inner-card, .xpdopen {
     color: #EEEEEE !important;
 }
 
