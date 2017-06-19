@@ -9,20 +9,24 @@ body {
 
 .sbib_a, .sbsb_a, .sbibod, a._sWr, ._Fmb {
     background-color: #1e1e1e !important;
-    color: #EEEEEE !important;
+    color: #AAAAAA !important;
 }
 
-.sbsb_d, #hdtbSum, .sfbgg, #appbar, .sfbgx, g-inner-card {
+.sbsb_d, #hdtbSum, .sfbgg, #appbar, .sfbgx, g-inner-card, #rhs .kp-blk {
     background: #252525 !important;
 }
 
 #gb#gb a.gb_P, #gb#gb span.gb_P, .gsfi, ._qgo, #brs .med, #brs .med, #foot #navcnt .cur, .kno-ecr-pt, g-inner-card, .xpdopen {
-    color: #EEEEEE !important;
+    color: #AAAAAA !important;
 }
 
 #fbar, ._qgo {
     border-top: 1px solid #1F1f1f !important;
     background-color: #1F1f1f !important;
+}
+
+.xpdclose ._T1i:not(:empty), .xpdopen ._U1i:not(:empty), .kp-blk .xpdclose ._wle, .kp-blk .xpdopen ._xle {
+    border-top: 1px solid #1f1f1f !important;
 }
 
 #hdtb, .sfbgx {
