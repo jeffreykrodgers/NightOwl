@@ -3,7 +3,7 @@ body {
     background: #1f1f1f !important;
 }
 
-#viewport {
+#viewport, ._Db:hover {
     background-color: #1F1f1f !important;
 }
 
@@ -12,20 +12,24 @@ body {
     color: #AAAAAA !important;
 }
 
-.sbsb_d, #hdtbSum, .sfbgg, #appbar, .sfbgx, g-inner-card, #rhs .kp-blk {
+.sbsb_d, #hdtbSum, .sfbgg, #appbar, .sfbgx, g-inner-card,
+#rhs .kp-blk, .vk_c, .vk_cxp, ._xe, ._M4k, ._A2o, ._yX, ._she {
     background: #252525 !important;
 }
 
-#gb#gb a.gb_P, #gb#gb span.gb_P, .gsfi, ._qgo, #brs .med, #brs .med, #foot #navcnt .cur, .kno-ecr-pt, g-inner-card, .xpdopen {
+#gb#gb a.gb_P, #gb#gb span.gb_P, .gsfi, ._qgo, #brs .med,
+#brs .med, #foot #navcnt .cur, .kno-ecr-pt, g-inner-card,
+.xpdopen, ._Db, ._rl, ._W5e, ._U5o, ._lTo {
     color: #AAAAAA !important;
 }
 
 #fbar, ._qgo {
-    border-top: 1px solid #1F1f1f !important;
+    border-top: 1px solid #252525 !important;
     background-color: #1F1f1f !important;
 }
 
-.xpdclose ._T1i:not(:empty), .xpdopen ._U1i:not(:empty), .kp-blk .xpdclose ._wle, .kp-blk .xpdopen ._xle {
+.xpdclose ._T1i:not(:empty), .xpdopen ._U1i:not(:empty),
+.kp-blk .xpdclose ._wle, .kp-blk .xpdopen ._xle, ._qJg, ._P4k, ._M4k, ._T5o, ._yX, ._yX td{
     border-top: 1px solid #1f1f1f !important;
 }
 
@@ -35,6 +39,11 @@ body {
 
 .sbpqs_a {
     color: #AFAFAF !important;
+}
+
+._S5o {
+  background-color: #252525 !important;
+  border: 1px solid #252525 !important;
 }
 
 .jhp input[type='submit'] {
